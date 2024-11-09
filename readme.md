@@ -91,13 +91,13 @@ This is a simple Java-based ATM system with a GUI interface. It allows users to 
 ## Screenshots
 
 ### Login Screen
-![Login Screen](./screenshots/login_screen.png)
+![Login Screen](screenshot/login_screen.png)
 
 ### Main Menu
-![Main Menu](./screenshots/main_menu.png)
+![Main Menu](./screenshot/Main_menu.png)
 
 ### Balance Screen
-![Balance Screen](./screenshots/balance_screen.png)
+![Balance Screen](./screenshot/balance_screen.png)
 
 ## License
 
